@@ -1,0 +1,26 @@
+[
+    {
+        "Id":"1",
+        "Company_Code":"1100",
+        "Company_Txt":"东莞铭普光磁股份有限公司",
+        "User_Code":"S00000001 ",
+        "Lang":"zh-CN",
+        "Is_Delete":"False"
+    },
+    {
+        "Id":"2",
+        "Company_Code":"1200",
+        "Company_Txt":"东莞市铭庆电子有限公司",
+        "User_Code":"S00000001 ",
+        "Lang":"zh-CN",
+        "Is_Delete":"False"
+    },
+    {
+        "Id":"3",
+        "Company_Code":"2100",
+        "Company_Txt":"泌阳县铭普电子有限公司",
+        "User_Code":"S00000001 ",
+        "Lang":"zh-CN",
+        "Is_Delete":"False"
+    }
+]
